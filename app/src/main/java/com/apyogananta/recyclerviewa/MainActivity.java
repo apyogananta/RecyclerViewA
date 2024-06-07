@@ -24,32 +24,38 @@ public class MainActivity extends AppCompatActivity
 
         NegaraModel nm = new NegaraModel();
         nm.setNama("Albania");
-        nm.setDeskripsi("Negara bakpau");
+        nm.setDeskripsi("Negara albania");
         nm.setUrl("https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/48/Albania-Flag-icon.png");
         negaraModelList.add(nm);
 
         nm = new NegaraModel();
         nm.setNama("Belgium");
-        nm.setDeskripsi("Negara mecyut");
+        nm.setDeskripsi("Negara belgia");
         nm.setUrl("https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/48/Belgium-Flag-icon.png");
         negaraModelList.add(nm);
 
         nm = new NegaraModel();
         nm.setNama("Hungary");
-        nm.setDeskripsi("Negara bakpau2");
+        nm.setDeskripsi("Negara lapar");
         nm.setUrl("https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/48/Hungary-Flag-icon.png");
         negaraModelList.add(nm);
 
         nm = new NegaraModel();
         nm.setNama("Nigeria");
-        nm.setDeskripsi("Negara black");
+        nm.setDeskripsi("Negara gelap");
         nm.setUrl("https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/48/Nigeria-Flag-icon.png");
         negaraModelList.add(nm);
 
         nm = new NegaraModel();
-        nm.setNama("Nazi");
-        nm.setDeskripsi("Negara Seniman");
-        nm.setUrl("https://en.wikipedia.org/wiki/Nazi_Germany#/media/File:Flag_of_Germany_(1935%E2%80%931945).svg");
+        nm.setNama("Indonesia");
+        nm.setDeskripsi("Negara +62");
+        nm.setUrl("https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/48/Indonesia-Flag-icon.png");
+        negaraModelList.add(nm);
+
+        nm = new NegaraModel();
+        nm.setNama("Japan");
+        nm.setDeskripsi("Negara wibu");
+        nm.setUrl("https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/48/Japan-Flag-icon.png");
         negaraModelList.add(nm);
 
 
